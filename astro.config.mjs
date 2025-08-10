@@ -13,7 +13,7 @@ export default defineConfig({
 			},
 		},
 	},
-	site: "https://majestico.co",
+	site: "https://cuvarad/github.io",
 	i18n: {
 		defaultLocale: "en",
 		locales: ["en", "it"],
